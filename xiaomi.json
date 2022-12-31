@@ -1,0 +1,2272 @@
+[
+	{
+		"model": "Redmi Note 5",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2006C3LVG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "21081111RG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "amber",
+		"hardware": "mt6893"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7 Pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "violet",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8T",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "420",
+		"brand": "Xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2102J20SG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "vayu",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8 Lite",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "platina",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "tissot_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "29",
+		"android_version": "10.0",
+		"display": "1080x2340",
+		"dpi": "421",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "redmi note 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "420",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5 Pro",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "davinci",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2102J20SG POCO X3 PRO VAYU",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "vayu",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "tissot_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Mix 2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "378",
+		"brand": "Xiaomi",
+		"os": "chiron",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2248",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "224",
+		"brand": "Xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2158",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI PLAY",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "lotus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "352",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "432",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "2201117PG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "fleur",
+		"hardware": "mt6781"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlinnfc",
+		"hardware": "mt6769z"
+	},
+	{
+		"model": "M2002J9G",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "monet",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "galahad",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlinnfc",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "M2006C3MNG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "angelican",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Redmi 4",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x1920",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "markw",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6 Pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "sakura",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI Note 2",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "scorpio",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "cereus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Redmi 7A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "pine",
+		"hardware": "qcom"
+	},
+	{
+		"model": "BASIC",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2006C3LG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "235",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "356",
+		"brand": "Xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8T",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "352",
+		"brand": "Xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 9 Pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "400",
+		"brand": "Redmi",
+		"os": "joyeuse",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "jasmine_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Go",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "tiare",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "Redmi 6",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "272",
+		"brand": "xiaomi",
+		"os": "cereus",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "POCOPHONE F1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2246",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6 Pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "432",
+		"brand": "Android",
+		"os": "phhgsi_arm64_a",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 4",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "432",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "21061119AG",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "selene",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi 5A",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "riva",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2009",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 4W",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "cancro",
+		"hardware": "qcom"
+	},
+	{
+		"model": "POCO F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2246",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI PAD 4",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1200x1920",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "clover",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "352",
+		"brand": "Xiaomi",
+		"os": "davinci",
+		"hardware": "qcom"
+	},
+	{
+		"model": "POCO F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2156",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 4",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "420",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "lancelot",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "MI 6",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "sagit",
+		"hardware": "qcom"
+	},
+	{
+		"model": "POCOPHONE F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2156",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "ginkgo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Y2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "dandelion",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "250",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "Redmi 8",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "olive",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi MIX 2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "432",
+		"brand": "Xiaomi",
+		"os": "chiron",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "503",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "461",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 4W",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x1920",
+		"dpi": "460",
+		"brand": "Xiaomi",
+		"os": "cancro",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 4x",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1280",
+		"dpi": "300",
+		"brand": "Xiaomi",
+		"os": "santoni",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MIX 2",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "chiron",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "378",
+		"brand": "Xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8T",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Note 10 Lite",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "toco",
+		"hardware": "qcom"
+	},
+	{
+		"model": "2201123G",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cupid",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8 pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "493",
+		"brand": "xiaomi",
+		"os": "ginkgo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 5s Plus",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "natrium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2248",
+		"dpi": "392",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2248",
+		"dpi": "360",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Note 3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "jason",
+		"hardware": "qcom"
+	},
+	{
+		"model": "2201117TG",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "spes",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2006C3LG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "MI 8 SE",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2244",
+		"dpi": "365",
+		"brand": "Xiaomi",
+		"os": "sirius",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "ginkgo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "jasmine_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "461",
+		"brand": "Redmi",
+		"os": "lancelot",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi 4X",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1280",
+		"dpi": "300",
+		"brand": "Xiaomi",
+		"os": "santoni",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 4",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "378",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2006C3LC",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "POCOPHONE F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2246",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "poco m2 pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "gram",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "tissot",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2007J17G",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "437",
+		"brand": "Xiaomi",
+		"os": "gauguin",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "galahad",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "M2007J20CG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "surya",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Pocophone F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2246",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "POCO F2 Pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "lmi",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8 Lite",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "platina",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "403",
+		"brand": "Xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi MIX 2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "chiron",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 9S",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "352",
+		"brand": "Redmi",
+		"os": "curtana",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2248",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Note 2",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "scorpio",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlinnfc",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi 5",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "rosy",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI MAX 3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "nitrogen",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 7",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1520",
+		"dpi": "290",
+		"brand": "Xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 7 pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "428",
+		"brand": "Xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 6 Pro",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "tulip",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2248",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T Pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "raphael",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2006C3LG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1544",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "dandelion",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "MI 8 SE",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2158",
+		"dpi": "352",
+		"brand": "Xiaomi",
+		"os": "sirius",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "29",
+		"android_version": "10.0",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2 Lite",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "daisy_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2102J2SC",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "thyme",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Go",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "272",
+		"brand": "Xiaomi",
+		"os": "tiare",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Note 3",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "490",
+		"brand": "Xiaomi",
+		"os": "jason",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "461",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 3S",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "land",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "MI 5",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "gemini",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 4",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 4A",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "720x1280",
+		"dpi": "306",
+		"brand": "Xiaomi",
+		"os": "rolex",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "416",
+		"brand": "Redmi",
+		"os": "galahad",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi Note 9 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "joyeuse",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "davinci",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Y2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "336",
+		"brand": "xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 5s",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "capricorn",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "256",
+		"brand": "xiaomi",
+		"os": "cactus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Redmi Note 4X",
+		"sdk": "28",
+		"android_version": "9.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "jasmine_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 6",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x1920",
+		"dpi": "409",
+		"brand": "Xiaomi",
+		"os": "sagit",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2012K11C",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "352",
+		"brand": "Redmi",
+		"os": "haydn",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2 Lite",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "daisy_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "POCO F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2246",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "tissot_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 6X",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "wayne",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 4X",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "santoni",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "500",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 9 Pro",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "396",
+		"brand": "Redmi",
+		"os": "joyeuse",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1440",
+		"dpi": "256",
+		"brand": "Xiaomi",
+		"os": "rosy",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlinnfc",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi S2",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Y3",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "ginkgo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "403",
+		"brand": "Xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi MIX 2",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "chiron",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "laurel_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 9S",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "curtana",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "454",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "lancelot",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi S2",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi S2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 5",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "whyred",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "336",
+		"brand": "xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "420",
+		"brand": "Xiaomi",
+		"os": "violet",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2038",
+		"dpi": "400",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "tissot_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 8",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "olive",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "352",
+		"brand": "xiaomi",
+		"os": "violet",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2 Lite",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "daisy_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A3",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1560",
+		"dpi": "256",
+		"brand": "Xiaomi",
+		"os": "laurel_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "tissot_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2007J3SY",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "490",
+		"brand": "Xiaomi",
+		"os": "apollo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A3",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "Xiaomi",
+		"os": "laurel_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 4X",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1280",
+		"dpi": "330",
+		"brand": "Xiaomi",
+		"os": "santoni",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2101K7BNY",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "rosemary",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "Mi Note 3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "352",
+		"brand": "Xiaomi",
+		"os": "jason",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2102J20SG",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "POCO",
+		"os": "vayu",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi Note 10 Lite",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2340",
+		"dpi": "396",
+		"brand": "Xiaomi",
+		"os": "toco",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "xiaomi",
+		"os": "jasmine_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2004J19C",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "421",
+		"brand": "Redmi",
+		"os": "lancelot",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi 3S",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1280",
+		"dpi": "280",
+		"brand": "Xiaomi",
+		"os": "land",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9 SE",
+		"sdk": "29",
+		"android_version": "10.0",
+		"display": "1080x2340",
+		"dpi": "467",
+		"brand": "Xiaomi",
+		"os": "grus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2012K11AG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "420",
+		"brand": "POCO",
+		"os": "alioth",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "384",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8T",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "461",
+		"brand": "xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "2201122C",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1440x3200",
+		"dpi": "560",
+		"brand": "Xiaomi",
+		"os": "zeus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI PLAY",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "384",
+		"brand": "xiaomi",
+		"os": "lotus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "MIX 2S",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "polaris",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "onc",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlin",
+		"hardware": "mt6769z"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "374",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "378",
+		"brand": "Xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6 Pro",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "sakura_india",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2264",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "POCOPHONE F1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2246",
+		"dpi": "461",
+		"brand": "Xiaomi",
+		"os": "beryllium",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 8T",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "willow",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 9S",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "curtana",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 6 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "tulip",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 7",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "461",
+		"brand": "xiaomi",
+		"os": "lavender",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "378",
+		"brand": "Xiaomi",
+		"os": "davinci",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi A2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2009",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "jasmine_sprout",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 8 Lite",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2280",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "platina",
+		"hardware": "qcom"
+	},
+	{
+		"model": "21061119DG",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2400",
+		"dpi": "352",
+		"brand": "Redmi",
+		"os": "eos",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "Redmi 6A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "360",
+		"brand": "xiaomi",
+		"os": "cactus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Redmi Note 7 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "xiaomi",
+		"os": "violet",
+		"hardware": "qcom"
+	},
+	{
+		"model": "M2003J15SC",
+		"sdk": "30",
+		"android_version": "11",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "merlin",
+		"hardware": "mt6768"
+	},
+	{
+		"model": "M2007J3SC",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "apollo",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "420",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi S2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "260",
+		"brand": "xiaomi",
+		"os": "ysl",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Remo Note 8 pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "Redmi Note 8 Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "461",
+		"brand": "Redmi",
+		"os": "begonia",
+		"hardware": "mt6785"
+	},
+	{
+		"model": "MI 6",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "Xiaomi",
+		"os": "sagit",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 4X",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "220",
+		"brand": "Xiaomi",
+		"os": "santoni",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6A",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "cactus",
+		"hardware": "mt6762m"
+	},
+	{
+		"model": "MI 8",
+		"sdk": "28",
+		"android_version": "9.0",
+		"display": "1080x2248",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "dipper",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi Note 4",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x1920",
+		"dpi": "420",
+		"brand": "Xiaomi",
+		"os": "mido",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "223",
+		"brand": "xiaomi",
+		"os": "cactus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "Mi MIX 2S",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "polaris",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "cereus",
+		"hardware": "mt6762"
+	},
+	{
+		"model": "Redmi Note 6 Pro",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "408",
+		"brand": "xiaomi",
+		"os": "tulip",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 5 Plus",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2160",
+		"dpi": "403",
+		"brand": "xiaomi",
+		"os": "vince",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MI 9",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "cepheus",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Redmi 6A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "xiaomi",
+		"os": "cactus",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "M2006C3MG",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1600",
+		"dpi": "320",
+		"brand": "Redmi",
+		"os": "angelica",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "2201117TG",
+		"sdk": "31",
+		"android_version": "12",
+		"display": "1080x2400",
+		"dpi": "440",
+		"brand": "Redmi",
+		"os": "spes",
+		"hardware": "qcom"
+	},
+	{
+		"model": "Mi 9T Pro",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "440",
+		"brand": "Xiaomi",
+		"os": "raphael",
+		"hardware": "qcom"
+	}
+]

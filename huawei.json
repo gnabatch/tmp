@@ -1,0 +1,1892 @@
+[
+	{
+		"model": "JNY-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2310",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWJNY",
+		"hardware": "kirin810"
+	},
+	{
+		"model": "JKM-LX2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWJKM-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "RNE-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "440",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "DRA-L21",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "360",
+		"brand": "HUAWEI",
+		"os": "HWDRA-M",
+		"hardware": "mt6739"
+	},
+	{
+		"model": "DUB-LX3",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWDUB-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "STK-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "540",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LYA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1440x3120",
+		"dpi": "640",
+		"brand": "HUAWEI",
+		"os": "HWLYA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "JSN-L42",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "540",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LYA-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWLYA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "BND-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "JSN-L21",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LYA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "540",
+		"brand": "HUAWEI",
+		"os": "HWLYA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "STF-AL10",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWSTF",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "HWI-TL00",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWHWI",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "AMN-LX2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWAMN-M",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "FIG-LA1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFIG-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "LIO-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1176x2400",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWLIO",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "VTR-L29",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVTR",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "MAR-LX3Bm",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2312",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "DUB-LX1",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWDUB-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "ANE-LX3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BLA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWBLA",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "MAR-LX3Bm",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2312",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "STK-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "HLK-AL00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWHLK-H",
+		"hardware": "kirin810"
+	},
+	{
+		"model": "DUA-L22",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "360",
+		"brand": "HONOR",
+		"os": "HWDUA-M",
+		"hardware": "mt6739"
+	},
+	{
+		"model": "BTV-DL09",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1600x2560",
+		"dpi": "480",
+		"brand": "Huawei",
+		"os": "btv",
+		"hardware": "hi3650"
+	},
+	{
+		"model": "MAR-LX1A",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2312",
+		"dpi": "540",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "AGS2-W09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1200x1920",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWAGS2",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BAH3-W09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1200x2000",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWBAH3",
+		"hardware": "kirin810"
+	},
+	{
+		"model": "LYA-L09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWLYA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "LLD-AL10",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWLLD-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "FIG-LA1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "360",
+		"brand": "HUAWEI",
+		"os": "HWFIG-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "AMN-LX9",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWAMN-M",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "COL-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2280",
+		"dpi": "408",
+		"brand": "HONOR",
+		"os": "HWCOL",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "DRA-LX2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWDRA-M",
+		"hardware": "mt6739"
+	},
+	{
+		"model": "HONOR 10 COL-L29",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWCOL",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "YAL-AL00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "STF-L09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWSTF",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "SNE-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSNE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "RNE-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "ALP-L09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWALP",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "YAL-L41",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "411",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "STK-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1560",
+		"dpi": "272",
+		"brand": "HONOR",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JDN2-W09HN",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1200x1920",
+		"dpi": "360",
+		"brand": "HONOR",
+		"os": "HWJDN2",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "DUK-L09",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWDUK",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "INE-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "ANE-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "PRA-LA1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPRA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "MAR-LX1A",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2312",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "STF-L09",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWSTF",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "BND-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "INE-LX1r",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "BLA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWBLA",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "HMA-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWHMA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "PRA-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPRA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "VOG-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVOG",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "ANE-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "540",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "LDN-LX2",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWLDN-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "BLA-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWBLA",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "COL-L29",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWCOL",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "YAL-AL00",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "JAT-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "WAS-TL10",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWWAS-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BND-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "408",
+		"brand": "HONOR",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "INE-LX2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "Nexus 6P",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1440x2560",
+		"dpi": "560",
+		"brand": "google",
+		"os": "angler",
+		"hardware": "angler"
+	},
+	{
+		"model": "POT-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPOT-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "WAS-LX1A",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2312",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "ARE-AL00",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWARE-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "AGS2-W09EEA",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1200x1920",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWAGS2",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "JSN-L22",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "DRA-LX2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "360",
+		"brand": "HUAWEI",
+		"os": "HWDRA-M",
+		"hardware": "mt6739"
+	},
+	{
+		"model": "CAG-L02",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "480x854",
+		"dpi": "240",
+		"brand": "HUAWEI",
+		"os": "HWCAG-L6737M",
+		"hardware": "mt6735"
+	},
+	{
+		"model": "SHT-W09",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1600x2560",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWSHT",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "COL-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWCOL",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "CLT-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2240",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWCLT",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "STK-LX3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "MAR-LX3A",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "810x1734",
+		"dpi": "360",
+		"brand": "HUAWEI",
+		"os": "HWMAR",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JAT-AL00",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "PPA-LX2",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2400",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPPA-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LLD-L31",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWLLD-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "ATU-L22",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWATU-QG",
+		"hardware": "qcom"
+	},
+	{
+		"model": "ELS-NX9",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1200x2640",
+		"dpi": "530",
+		"brand": "HUAWEI",
+		"os": "HWELS",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "FLA-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFLA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "MRD-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWMRD-M1",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "Che1-L04",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1280",
+		"dpi": "320",
+		"brand": "Huawei",
+		"os": "Che1-L04",
+		"hardware": "qcom"
+	},
+	{
+		"model": "DUA-L22",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWDUA-M",
+		"hardware": "mt6739"
+	},
+	{
+		"model": "VTR-L09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVTR",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "STK-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JSN-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "BLA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1440",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWBLA",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "RNE-L22",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "RNE-L22",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "400",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "AUM-AL00",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWAUM-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "ARE-L22HN",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWARE-QC",
+		"hardware": "qcom"
+	},
+	{
+		"model": "ANE-LX1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "LYA-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1440x3120",
+		"dpi": "640",
+		"brand": "HUAWEI",
+		"os": "HWLYA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "MHA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWMHA",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "BLA-L09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWBLA",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "JDN2-W09",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1200x1920",
+		"dpi": "360",
+		"brand": "HUAWEI",
+		"os": "HWJDN2",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "EVR-AN00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWEVR",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "INE-LX1",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "YAL-L21",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "MRD-LX1F",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1336",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWMRD-M1",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "SHT-W09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1600x2560",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSHT",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "ANE-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "STK-LX3",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "WAS-LX1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWWAS-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "INE-LX2r",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "FIG-LX1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFIG-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "AUM-L41",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWAUM-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "MHA-L29",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "440",
+		"brand": "HUAWEI",
+		"os": "HWMHA",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "p smart",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFIG-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "HRY-LX1T",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWHRY-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "AUM-L29",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWAUM-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "AGS2-L09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1200x1920",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWAGS2",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "HMA-AL00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWHMA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "JKM-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWJKM-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "EVR-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWEVR",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "JKM-LX2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWJKM-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JSN-L22",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "RNE-L22",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "293",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "STF-L09S",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWSTF",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "COR-AL00",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWCOR",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "CLT-L29",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2240",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWCLT",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "VTR-AL00",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVTR",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "JNY-LX2",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2310",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWJNY",
+		"hardware": "kirin810"
+	},
+	{
+		"model": "STK-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LLD-L31",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWLLD-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "FIG-LA1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFIG-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BKK-LX2",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "720x1520",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWBKK-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "STK-LX3",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "PAR-AL00",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPAR",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "INE-LX2",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "ELE-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWELE",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "HMA-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWHMA",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "FRD-L09",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWFRD",
+		"hardware": "hi3650"
+	},
+	{
+		"model": "ATU-L31",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWATU-QG",
+		"hardware": "qcom"
+	},
+	{
+		"model": "PRA-LX1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWPRA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "SNE-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSNE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "VOG-L09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVOG",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "LLD-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWLLD-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BND-L24",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "Huawei",
+		"sdk": "27",
+		"android_version": "4.4.2",
+		"display": "600x1024",
+		"dpi": "160",
+		"brand": "Samsung",
+		"os": "hwt1701",
+		"hardware": "sc8830"
+	},
+	{
+		"model": "SNE-LX3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSNE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "MRX-AL09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1600x2560",
+		"dpi": "400",
+		"brand": "HUAWEI",
+		"os": "HWMRX",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "YAL-L21",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "MRD-LX1F",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWMRD-M1",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "PRA-TL10",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWPRA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "STK-L21",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWSTK-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "AMN-LX9",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1520",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWAMN-M",
+		"hardware": "mt6761"
+	},
+	{
+		"model": "JAT-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "EML-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2244",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWEML",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "WLZ-AL10",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2400",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWWLZ",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "JNY-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2310",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWJNY",
+		"hardware": "kirin810"
+	},
+	{
+		"model": "ANE-LX1",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2280",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWANE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "WAS-LX1A",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWWAS-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "CLT-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2240",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWCLT",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "YAL-L41",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "419",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "LND-L29",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWLND-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "VOG-AL00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2400",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVOG",
+		"hardware": "kirin985"
+	},
+	{
+		"model": "LDN-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWLDN-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "STF-L09",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x1920",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWSTF",
+		"hardware": "hi3660"
+	},
+	{
+		"model": "HRY-LX1T",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWHRY-HF",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JSN-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "ANA-NX9",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWANA",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "JSN-L22",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "VOG-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWVOG",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "FLA-LX2",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWFLA-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "ELE-L09",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWELE",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "JAT-LX3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "HRY-LX1",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWHRY-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JSN-L21",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "PAR-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWPAR",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "COL-L29",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2280",
+		"dpi": "540",
+		"brand": "HONOR",
+		"os": "HWCOL",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "INE-LX1",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWINE",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "JSN-L22",
+		"sdk": "27",
+		"android_version": "8.1.0",
+		"display": "1080x2340",
+		"dpi": "540",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "YAL-L21",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWYAL",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "EML-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "720x1496",
+		"dpi": "272",
+		"brand": "HUAWEI",
+		"os": "HWEML",
+		"hardware": "kirin970"
+	},
+	{
+		"model": "JAT-L41",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1560",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "JAT-LX3",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "720x1336",
+		"dpi": "320",
+		"brand": "HONOR",
+		"os": "HWJAT-M",
+		"hardware": "mt6765"
+	},
+	{
+		"model": "JSN-L22",
+		"sdk": "28",
+		"android_version": "9",
+		"display": "1080x2340",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWJSN-H",
+		"hardware": "kirin710"
+	},
+	{
+		"model": "LIO-AN00",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1176x2400",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWLIO",
+		"hardware": "kirin990"
+	},
+	{
+		"model": "RNE-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "400",
+		"brand": "HUAWEI",
+		"os": "HWRNE",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "BND-L21",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HONOR",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	},
+	{
+		"model": "ELE-L29",
+		"sdk": "29",
+		"android_version": "10",
+		"display": "1080x2340",
+		"dpi": "408",
+		"brand": "HUAWEI",
+		"os": "HWELE",
+		"hardware": "kirin980"
+	},
+	{
+		"model": "LDN-LX3",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "720x1440",
+		"dpi": "320",
+		"brand": "HUAWEI",
+		"os": "HWLDN-Q",
+		"hardware": "qcom"
+	},
+	{
+		"model": "BND-L34",
+		"sdk": "26",
+		"android_version": "8.0.0",
+		"display": "1080x2160",
+		"dpi": "480",
+		"brand": "HUAWEI",
+		"os": "HWBND-H",
+		"hardware": "hi6250"
+	}
+]
